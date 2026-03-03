@@ -1,4 +1,4 @@
-# GeoSpatial Segmentation — U-Net on LandCover.ai
+# GeoSpatial Segmentation using UNET from Scratch
 
 A PyTorch implementation of U-Net for multi-class semantic segmentation of aerial/satellite imagery, trained on the [LandCover.ai v1](https://landcover.ai/) dataset. The model segments geospatial imagery into 5 land-cover classes.
 
